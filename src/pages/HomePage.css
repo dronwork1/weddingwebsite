@@ -1,0 +1,45 @@
+.homepage{
+    display: flex;
+    height: 100vh;
+    background-color: #EBD8D0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.homePageText{
+    font-family: "RS-extralight";
+    font-size: 2.3em;
+    margin: 0.7vh;
+    color: #D3AB9E;
+}
+.oval{
+    border: 2px solid;
+    border-radius: 41px;
+    border-color: #FFFBFF;
+    width: 7em;
+}
+
+@font-face {
+    font-family: "Izax"; 
+    src: url("../fonts/Izax.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+    @font-face {
+        font-family: "RS-regular"; 
+        src: url("../fonts/RS-regular.otf") format("truetype"); 
+        font-style: normal; 
+        font-weight: normal; 
+        } 
+    @font-face {
+    font-family: "RS-semibold"; 
+    src: url("../fonts/RS-semibold.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+    @font-face {
+        font-family: "RS-extralight"; 
+        src: url("../fonts/RS-extralight.otf") format("truetype"); 
+        font-style: normal; 
+        font-weight: normal; 
+        } 
