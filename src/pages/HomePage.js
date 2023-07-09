@@ -14,6 +14,7 @@ const HomePage =() => {
             setOnAnimation(true);
             setTimeout(() => setOnAnimation(false), 1750)
         }
+        
     }
 
     return(
